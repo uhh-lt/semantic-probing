@@ -1,6 +1,10 @@
 A, [MASK] and B.
 What’s [VALUE] or [MASK], A or B?
 What’s [VALUE] and [MASK], A or B?
+A is [MASK], thus they have a [VALUE]
+A is [VALUE], thus it has more [MASK] per m2
 To know which is [VALUE], A or B, you need [MASK].
-What’s [VALUE], and thus has a higher [MASK], A or B ?
-We need the [MASK] to determine what’s [VALUE], A or B.
+What’s [VALUE], thus has a higher [MASK], A or B ?
+We need the [MASK] to know what’s [VALUE], A or B
+We need the [VALUE] to know who is [MASK] A or B
+A is famous for [VALUE], thus it has more [MASK]
